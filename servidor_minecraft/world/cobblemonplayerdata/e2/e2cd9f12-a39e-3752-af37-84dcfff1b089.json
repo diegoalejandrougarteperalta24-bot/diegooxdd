@@ -11,15 +11,16 @@
     "totalCaptureCount": 0,
     "totalEggsHatched": 0,
     "totalEvolvedCount": 0,
-    "totalBattleVictoryCount": 1,
+    "totalBattleVictoryCount": 2,
     "totalPvPBattleVictoryCount": 0,
-    "totalPvWBattleVictoryCount": 1,
+    "totalPvWBattleVictoryCount": 2,
     "totalPvNBattleVictoryCount": 0,
     "totalShinyCaptureCount": 0,
     "totalTradedCount": 0,
     "totalTypeCaptureCounts": {},
     "totalDefeatedCounts": {
-      "cobblemon:combee": 1
+      "cobblemon:combee": 1,
+      "cobblemon:patrat": 1
     },
     "aspectsCollected": {}
   }
