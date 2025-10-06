@@ -331,7 +331,8 @@
   "minecraft:husbandry/balanced_diet": {
     "criteria": {
       "cooked_porkchop": "2025-10-06 19:53:02 +0000",
-      "rotten_flesh": "2025-10-06 22:13:04 +0000"
+      "rotten_flesh": "2025-10-06 22:13:04 +0000",
+      "cooked_chicken": "2025-10-06 22:27:06 +0000"
     },
     "done": false
   },
@@ -425,6 +426,12 @@
     },
     "done": true
   },
+  "cobblemon:obtain_berry": {
+    "criteria": {
+      "check_inv": "2025-10-06 22:29:50 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/coarse_dirt": {
     "criteria": {
       "has_gravel": "2025-10-06 22:11:09 +0000"
@@ -442,6 +449,12 @@
       "has_gravel": "2025-10-06 22:11:09 +0000"
     },
     "done": true
+  },
+  "cobblemon:obtain_all_berries": {
+    "criteria": {
+      "obtain_aspear_berry": "2025-10-06 22:29:50 +0000"
+    },
+    "done": false
   },
   "minecraft:recipes/building_blocks/red_concrete_powder": {
     "criteria": {
@@ -467,6 +480,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/combat/arrow": {
+    "criteria": {
+      "has_feather": "2025-10-06 22:26:07 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/blue_concrete_powder": {
     "criteria": {
       "has_gravel": "2025-10-06 22:11:09 +0000"
@@ -476,6 +495,18 @@
   "minecraft:recipes/building_blocks/white_concrete_powder": {
     "criteria": {
       "has_gravel": "2025-10-06 22:11:09 +0000"
+    },
+    "done": true
+  },
+  "cobblemon:recipes/agriculture/mulch_base": {
+    "criteria": {
+      "has_berry": "2025-10-06 22:29:50 +0000"
+    },
+    "done": true
+  },
+  "cobblemon:any_plant": {
+    "criteria": {
+      "check_inv": "2025-10-06 22:29:50 +0000"
     },
     "done": true
   },

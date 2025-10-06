@@ -881,3 +881,6 @@ com.google.gson.JsonSyntaxException: Expected name to be an item, was unknown st
 [06Oct2025 22:10:21.176] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: juanperezxd[/127.161.81.9:56017] logged in with entity id 211 at (69.51147422607673, 84.0, -69.569762980711)
 [06Oct2025 22:10:21.297] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: juanperezxd joined the game
 [06Oct2025 22:14:18.642] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 8483ms or 169 ticks behind
+[06Oct2025 22:29:50.617] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: juanperezxd has made the advancement [Mother Nature's Bounty]
+[06Oct2025 22:29:50.618] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: juanperezxd has made the advancement [Very Berry]
+[06Oct2025 22:38:16.268] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: juanperezxd was shot by Skeleton
