@@ -884,3 +884,5 @@ com.google.gson.JsonSyntaxException: Expected name to be an item, was unknown st
 [06Oct2025 22:29:50.617] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: juanperezxd has made the advancement [Mother Nature's Bounty]
 [06Oct2025 22:29:50.618] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: juanperezxd has made the advancement [Very Berry]
 [06Oct2025 22:38:16.268] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: juanperezxd was shot by Skeleton
+[06Oct2025 22:56:54.414] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: juanperezxd lost connection: Disconnected
+[06Oct2025 22:56:54.414] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: juanperezxd left the game
